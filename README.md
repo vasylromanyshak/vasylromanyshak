@@ -54,6 +54,7 @@
 <br /> ✔ MongoDB, PostgreSQL, MySQL, MariaDB, SQLite, Cloud Database<br/>
 <br /> ✔ Git, Github, Gitlab, Bitbucket: 10 years
 <br /> ✔ Docker, AWS: 3 years
+<br /> ✔ Web Design: Figma, Adobe XD, Wireframe
 
 ## What I Can Do
 
@@ -65,6 +66,8 @@
 #### Front-End Web Development
   
 #### Web Hosting & Maintenance
+  
+#### Web Design
   
 #### Blockchain Development
   
