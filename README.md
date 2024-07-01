@@ -49,7 +49,7 @@
 <br /> ✔ Web3, Web/Mobile Wallet
 <br /> ✔ Blockchain, Smart Contract(Solidity, Ethereum), DApp: 5 years
 <br /> ✔ Contentful api, Restful api, GraphQL, Apollo.
-<br /> ✔ Python, Django Flux: 6 months
+<br /> ✔ Python, Django Flux: 6 years
 <br /> ✔ TailwindCSS, Animate.css, video.js, Bootstrap, jQuery, HTML5, CSS3/SCSS/LESS: 10 years
 <br /> ✔ MongoDB, PostgreSQL, MySQL, MariaDB, SQLite, Cloud Database<br/>
 <br /> ✔ Git, Github, Gitlab, Bitbucket: 10 years
